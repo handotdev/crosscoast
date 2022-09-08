@@ -1,0 +1,38 @@
+{
+  "name": "Cross Coast Club",
+  "logo": {
+    "dark": "/logo/dark.png",
+    "light": "/logo/light.png"
+  },
+  "favicon": "/favicon.png",
+  "colors": {
+    "primary": "#3b83f4",
+    "light": "#009FD9",
+    "dark": "#007AA6",
+    "ultraLight": "#C3E2EC",
+    "ultraDark": "#00455F"
+  },
+  "topbarLinks": [],
+  "topbarCtaButton": {
+    "name": "Contact Us",
+    "url": "mailto:sx236@cornell.edu"
+  },
+  "anchors": [
+    {
+      "name": "Selene's Twitter",
+      "icon": "twitter",
+      "url": "https://twitter.com/SeleneXu1"
+    },
+    {
+      "name": "Han's Twitter",
+      "icon": "twitter",
+      "url": "https://twitter.com/hanwangio"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Home",
+      "pages": ["introduction"]
+    }
+  ]
+}
